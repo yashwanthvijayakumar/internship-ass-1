@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+}
+#login{
+    margin-left: 470px;
+}
+#first{
+    margin-left: 450px;
+}
+#login2{
+    margin-left: 500px;
+}
+#cancel{
+    margin-left: 350px;
+}
+#forgot{
+    margin-left: 250px;
+}

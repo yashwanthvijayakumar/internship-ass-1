@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+h2{
+    margin-left: 500px;
+}
+#main{
+    margin-left: 470px;
+}
+
+
+#back{
+    margin-left: 350px;
+}
+#reset{
+    margin-left: 350px;
+}
